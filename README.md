@@ -4,7 +4,7 @@ This is a drawing/painting app built in Android Studio using Kotlin.
 
 I wanted to gain some more experience in building apps and creating a drawing app seemed like a good place to start. 
 
-[Software Demo Video](  INSERT LINK  )
+[Software Demo Video](https://youtu.be/HKfH7HNvuYg)
 
 # Development Environment
 
